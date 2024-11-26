@@ -7,10 +7,10 @@ description: Total list of project.
 author: <author_id>  
 ---
 
-## Project List
+## Project list
 
 These are my projects.
 
 ### League of legends predictor
 
-1. [Sitelink](/lol)
+1. [Sitelink](https://gitformike.github.io/lol)
