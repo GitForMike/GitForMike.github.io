@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://gitformike.github.io</loc>
+		<loc>https://gitformike.github.io/tier/</loc>
 		<lastmod>2025-01-02T12:46:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://gitformike.github.io/lol/</loc>
-		<lastmod>2024-12-21T17:46:58+00:00</lastmod>
+		<loc>https://gitformike.github.io/tier/builder</loc>
+		<lastmod>2025-01-02T12:46:25+00:00</lastmod>
 	</url>
+	<url>
+		<loc>https://gitformike.github.io/tier/tierlist/girls_frontline2</loc>
+		<lastmod>2025-01-02T12:46:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gitformike.github.io/tier/tierlist/nikke</loc>
+		<lastmod>2025-01-02T12:46:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gitformike.github.io/tier/tierlist/odin</loc>
+		<lastmod>2025-01-02T12:46:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gitformike.github.io/tier/tierlist/last_war</loc>
+		<lastmod>2025-01-02T12:46:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gitformike.github.io/tier/tierlist/whiteout_survival</loc>
+		<lastmod>2025-01-02T12:46:25+00:00</lastmod>
+	</url>		
 </urlset>
