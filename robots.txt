@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://gitformike.github.io/sitemap_index.xml
