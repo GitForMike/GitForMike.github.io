@@ -15,6 +15,7 @@ source "https://rubygems.org"
 
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
+gem "html-proofer"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
@@ -28,4 +29,4 @@ gem "minimal-mistakes-jekyll"
 group :jekyll_plugins do
 end
 
-gem "html-proofer"
+
