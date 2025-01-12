@@ -10,5 +10,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Home"
-    url: /
+sidebar_link:
+  - title: "Tier List Maker"
+    url: https://gitformike.github.io/tier/
+  - title: "LOL Predictor"
+    url: https://gitformike.github.io/lol/
