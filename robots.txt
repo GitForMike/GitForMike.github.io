@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gitformike.github.io/sitemap_index.xml
