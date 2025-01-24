@@ -11,6 +11,8 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 sidebar_link:
+  - title: "Document AI"
+    url: https://gitformike.github.io/doc_ai/
   - title: "Tier List Maker"
     url: https://gitformike.github.io/tier/
   - title: "LOL Predictor"

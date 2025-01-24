@@ -19,12 +19,12 @@ This project utilizes the following technologies:
 
 *   **Next.js:** A React framework for building server-side rendered and statically generated web applications, providing excellent performance and SEO.
 *   **TensorFlow.js:** A JavaScript library for machine learning in the browser. This allowed me to train and deploy the prediction model directly on the client-side.
-*   **League of Legends Match Data API:** I used a public API to gather historical match data, which was crucial for training the machine learning model. (Please specify the API you used if possible, e.g., Riot Games API)
+*   **League of Legends Match Data API:** I used a Riot Games API to gather historical match data, which was crucial for training the machine learning model.
 
 ## How it Works
 
 1.  **Data Collection:** I collected a large dataset of League of Legends match data from a public API. This data included information about the champions picked for each team and the outcome of the match.
-2.  **Model Training:** I used TensorFlow.js to train a machine learning model on this dataset. The model learned to identify patterns in champion compositions and correlate them with win rates. (If you used a specific model like logistic regression, neural network, etc. mention it here.)
+2.  **Model Training:** I used TensorFlow.js to train a machine learning model(Auto ML) on this dataset. The model learned to identify patterns in champion compositions and correlate them with win rates. 
 3.  **Prediction:** When a user selects a champion composition on the website, the trained model makes a prediction about the win rate for each team.
 
 ## Future Plans
