@@ -3,6 +3,9 @@ on:
   schedule:
     # Set the schedule time
     - cron: '0 2 * * *'
+    
+  # 저장소의 Actions 탭에서 수동으로 실행가능하게 하는 옵션
+  workflow_dispatch:
 
 jobs:
   check-and-submit:
