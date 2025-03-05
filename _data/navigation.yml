@@ -11,6 +11,8 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 sidebar_link:
+  - title: "Villa Price"
+    url: https://gitformike.github.io/villa/
   - title: "Document AI"
     url: https://gitformike.github.io/doc_ai/
   - title: "Tier List Maker"
