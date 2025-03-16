@@ -8,6 +8,9 @@ Run below commands.
 $ git init
 $ git add .
 $ git commit -m "my commit"
-$ git remote set-url origin git@github.com:username/repo.git
+$ git remote add origin git@github.com:username/repo.git
+$ git branch --set-upstream-to=origin/main main
+$ git pull --rebase
+#(Resolve conflict if needed)
 $ git push origin main
 ```
