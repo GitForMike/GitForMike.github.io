@@ -11,8 +11,12 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 sidebar_link:
+  - title: "WordLink"
+    url: https://play.google.com/store/apps/details?id=com.hnd.word_similarity_game
   - title: "Villa Price"
     url: https://gitformike.github.io/villa/
+  - title: "Villa Price (App)"
+    url: https://play.google.com/store/apps/details?id=com.hnd.villa_app
   - title: "Document AI"
     url: https://gitformike.github.io/doc_ai/
   - title: "Tier List Maker"
