@@ -15,7 +15,7 @@ jobs:
       - name: indexnow-action
         uses: bojieyang/indexnow-action@v2
         with:
-          sitemap-location: 'https://gitformike.github.io/sitemap_index.xml'
+          sitemap-location: 'https://mike.hndblog.com/sitemap_index.xml'
           key: ${{ secrets.INDEXNOW_KEY }}     
           endpoint: 'api.indexnow.org'
           since: 1
@@ -23,7 +23,7 @@ jobs:
       - name: indexnow-action-bing
         uses: bojieyang/indexnow-action@v2
         with:
-          sitemap-location: 'https://gitformike.github.io/sitemap_index.xml'
+          sitemap-location: 'https://mike.hndblog.com/sitemap_index.xml'
           key: ${{ secrets.INDEXNOW_KEY }}
           endpoint: 'www.bing.com'
           since: 1

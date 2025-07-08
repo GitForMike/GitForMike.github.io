@@ -3,7 +3,7 @@ title: A Tier List Website for Popular Games
 ---
 
 I'm excited to share my latest personal project: a website that provides a simple and intuitive way to explore popular games and their character tier lists. 
-Check out my project: **[https://gitformike.github.io/tier/](https://gitformike.github.io/tier/)**
+Check out my project: **[https://mike.hndblog.com/tier/](https://mike.hndblog.com/tier/)**
 
 This project was born out of my passion for gaming and my desire to create a useful tool for fellow gamers. I wanted to build a platform where users could easily find information about trending games and quickly understand the relative strengths of different characters or units within those games.
 

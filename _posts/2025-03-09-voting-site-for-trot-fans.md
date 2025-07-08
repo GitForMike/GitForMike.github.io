@@ -2,7 +2,7 @@
 title: Calling All Trot Fans! Support Your Favorite Artist with the Trot Voting Web Service!
 ---
 
-Hey everyone! I'm excited to introduce my latest creation for all the trot music enthusiasts out there: the Trot Voting web service! This platform, accessible at [https://gitformike.github.io/vote/](https://gitformike.github.io/vote/), is designed for fans to actively support their beloved trot singers through daily voting and even discover new talent.
+Hey everyone! I'm excited to introduce my latest creation for all the trot music enthusiasts out there: the Trot Voting web service! This platform, accessible at [https://mike.hndblog.com/vote/](https://mike.hndblog.com/vote/), is designed for fans to actively support their beloved trot singers through daily voting and even discover new talent.
 
 ### For the Love of Trot: A Platform for Dedicated Fans
 

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gitformike.github.io/sitemap_index.xml
+Sitemap: https://mike.hndblog.com/sitemap_index.xml

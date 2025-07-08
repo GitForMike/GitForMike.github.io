@@ -3,18 +3,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://gitformike.github.io/sitemap.xml</loc>
+    <loc>https://mike.hndblog.com/sitemap.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://gitformike.github.io/tier/sitemap.xml</loc>
+    <loc>https://mike.hndblog.com/tier/sitemap.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://gitformike.github.io/lol/sitemap.xml</loc>
+    <loc>https://mike.hndblog.com/lol/sitemap.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://gitformike.github.io/vote/sitemap.xml</loc>
+    <loc>https://mike.hndblog.com/vote/sitemap.xml</loc>
   </sitemap>  
   <sitemap>
-    <loc>https://gitformike.github.io/villa/sitemap.xml</loc>
+    <loc>https://mike.hndblog.com/villa/sitemap.xml</loc>
   </sitemap>
 </sitemapindex>

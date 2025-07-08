@@ -3,7 +3,7 @@ title: Predicting League of Legends Win Rates with Champion Compositions
 ---
 
 I'm excited to introduce my latest project: a website that predicts win rates in League of Legends based on champion compositions. 
-Check out my project: **[https://gitformike.github.io/lol/](https://gitformike.github.io/lol/)**
+Check out my project: **[https://mike.hndblog.com/lol/](https://mike.hndblog.com/lol/)**
 
 
 This project combines my interest in League of Legends with my passion for machine learning and web development. I wanted to create a tool that could provide insights into how different champion combinations might perform in a match.
