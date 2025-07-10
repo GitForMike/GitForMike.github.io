@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: indexnow-action
-        uses: bojieyang/indexnow-action@v2
+        uses: GitForMike/indexnow-action@v2.1.0_fork
         with:
           sitemap-location: 'https://mike.hndblog.com/sitemap_index.xml'
           key: ${{ secrets.INDEXNOW_KEY }}     
@@ -21,10 +21,18 @@ jobs:
           since: 1
           since-unit: 'month'
       - name: indexnow-action-bing
-        uses: bojieyang/indexnow-action@v2
+        uses: GitForMike/indexnow-action@v2.1.0_fork
         with:
           sitemap-location: 'https://mike.hndblog.com/sitemap_index.xml'
           key: ${{ secrets.INDEXNOW_KEY }}
           endpoint: 'www.bing.com'
           since: 1
           since-unit: 'month'
+      - name: indexnow-action-naver
+        uses: GitForMike/indexnow-action@v2.1.0_fork
+        with:
+          sitemap-location: 'https://mike.hndblog.com/sitemap_index.xml'
+          key: ${{ secrets.INDEXNOW_KEY }}
+          endpoint: 'searchadvisor.naver.com'
+          since: 1
+          since-unit: 'month'          
