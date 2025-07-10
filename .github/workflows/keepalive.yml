@@ -1,0 +1,13 @@
+name: Keep Workflows Alive
+on:
+  schedule:
+    # 매월 1일과 15일, 00:00 UTC에 실행됩니다.
+    - cron: '0 0 1,15 * *'
+
+jobs:
+  keepalive:
+    name: Keepalive
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: echo "Keeping workflows alive to prevent deactivation." 
