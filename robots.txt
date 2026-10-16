@@ -1,4 +1,20 @@
 User-agent: *
-Disallow:
+Allow: /
+
+# AI Search & Answer Engine Crawlers (AEO / GEO)
+User-agent: Googlebot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
 
 Sitemap: https://mike.hndblog.com/sitemap_index.xml
